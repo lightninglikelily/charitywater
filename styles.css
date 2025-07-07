@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: #2e8b57;
+}
+
+p {
+    font-size: 18px;
+    max-width: 700px;
+    margin: 0 auto 30px;
+    line-height: 1.6;
+}
+
+.donation-buttons button {
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #2e8b57;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.donation-buttons button:hover {
+    background-color: #3cb371;
+}
+
+nav {
+    margin-top: 30px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #2e8b57;
+    font-weight: bold;
+}
